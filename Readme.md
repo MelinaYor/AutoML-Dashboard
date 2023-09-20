@@ -1,5 +1,3 @@
-Sure, here's the updated README with the added information:
-
 # PyCaret Streamlit App
 
 This is a guide on how to use the PyCaret Streamlit app. The app allows you to upload a CSV file, preprocess the data, and run multiple machine learning algorithms using the PyCaret library.
