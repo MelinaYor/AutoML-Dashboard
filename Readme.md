@@ -41,5 +41,5 @@ Replace `app.py` with the name of your Streamlit app file if it's different.
 
 ## Note
 
-Running this app might take some time as PyCaret's `compare_models` function trains and evaluates multiple models. The time taken would depend on the size and complexity of your dataset as well as the computational resources of your machine.
+Running this app might take some time as PyCaret's `compare_models` function trains and evaluates multiple models. The time taken would depend on the size and complexity of your uploaded dataset as well as the computational resources of your machine.
 
