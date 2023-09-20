@@ -1,3 +1,5 @@
+Sure, here's the updated README with the added information:
+
 # PyCaret Streamlit App
 
 This is a guide on how to use the PyCaret Streamlit app. The app allows you to upload a CSV file, preprocess the data, and run multiple machine learning algorithms using the PyCaret library.
@@ -28,3 +30,17 @@ Before running the app, make sure to install the necessary libraries (`streamlit
 ```python
 pip install streamlit pycaret
 ```
+
+## Running the App
+
+To run the app, navigate to the directory containing the app file in your terminal and type:
+
+```bash
+streamlit run app.py
+```
+
+Replace `app.py` with the name of your Streamlit app file if it's different.
+
+## Note
+
+Running this app might take some time as PyCaret's `compare_models` function trains and evaluates multiple models. The time taken would depend on the size and complexity of your dataset as well as the computational resources of your machine.
