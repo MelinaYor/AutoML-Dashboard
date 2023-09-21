@@ -31,8 +31,6 @@ pip install streamlit pycaret
 
 ## Running the App
 
-To run the app, navigate to the directory containing the app file in your terminal and type:
-
 ```bash
 streamlit run app.py
 ```
